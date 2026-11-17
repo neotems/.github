@@ -67,7 +67,7 @@
 
 ## 📬 联系我们 (Contact)
 
-- 🌐 **官网**: [建设中 / Coming Soon](#)
+- 🌐 **官网**: https://helpenx.com/
 - 📧 **邮箱**: [建设中 / Coming Soon](#)
 - 💬 **社区**: [微信群/Discord 筹备中](#)
 
